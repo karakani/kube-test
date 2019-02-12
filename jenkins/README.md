@@ -26,6 +26,11 @@ Prepare
 Run
 ---
 
-Just call `apply.sh` to run. `delete.sh` to delete all.
+Just call `apply.sh` to run.
+
+Delete
+------
+
+`delete.sh` to delete all.
 
 Remember, you have to delete `/opt/volumes/jenkins` directory manually.
